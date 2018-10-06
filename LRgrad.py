@@ -50,3 +50,5 @@ plt.plot(itr,cost[0:15])
 plt.xlabel("No of iterations")
 plt.ylabel("Cost")
 plt.show()
+
+#hey there
